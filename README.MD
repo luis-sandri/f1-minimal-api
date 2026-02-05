@@ -31,15 +31,15 @@ npm run start:dev
 
 - GET /api/drivers
   - Lista todos os pilotos
-  - Exemplo: `curl http://localhost:3333/api/drivers`
+  - Exemplo: `http://localhost:3333/api/drivers`
 
 - GET /api/drivers/{id}
   - Retorna dados de um piloto específico
-  - Exemplo: `curl http://localhost:3333/api/drivers/44`
+  - Exemplo: `http://localhost:3333/api/drivers/44`
 
 - GET /api/teams
   - Lista equipes
-  - Exemplo: `curl http://localhost:3333/api/teams`
+  - Exemplo: `http://localhost:3333/api/teams`
 
 
 
